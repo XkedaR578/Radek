@@ -1,0 +1,208 @@
+body
+{
+    background-color: rgb(49, 49, 49);
+    color: aliceblue;
+    font-family: 'Comfortaa', cursive;
+}
+
+#pojemnik
+{
+ width: 1150px;
+ margin-left: auto;
+ margin-right: auto;
+
+}
+#title
+{
+    width: 1130px;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Anton', sans-serif;
+    font-size: 38px;
+    color: rgb(251, 228, 198);
+    border-bottom: 2px solid rgb(251, 228, 198);
+}
+#menu
+{
+    float: left;
+    width: 1130px;
+    height: 50px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+    .menu
+    {
+        float: left;
+        padding: 10px;
+        font-size: 26px;
+    }
+    .menu:hover
+    {
+        cursor: pointer;
+        color: rgb(235, 206, 41);
+    }
+
+#oferty
+{
+    float: left;
+    width: 900px;
+}
+
+#koszyk
+{
+    float: left;
+    width: 230px;
+    height: 372px;
+    margin: 10px;
+    background-color: rgb(110, 23, 23);
+    border-radius: 10px;
+    font-size: 32px;
+    text-align: center;
+
+}
+
+.burger
+{
+    float: left;
+    width: 280px;
+    height: 453px;
+    margin: 10px;
+    background-color: #2975c6;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+}
+    .burger:hover
+    {
+        cursor: pointer;
+        background-color: #3965b6;
+    }
+.napoje
+{
+    float: left;
+    width: 280px;
+    height: 453px;
+    margin: 10px;
+    background-color: #29c629;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+}
+    .napoje:hover
+    {
+        cursor: pointer;
+        background-color: #19B619;
+    }
+.RS6
+{
+    float: left;
+    width: 280px;
+    height: 453px;
+    margin: 10px;
+    background-color: #c68429;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+}
+    .RS6:hover
+    {
+        cursor: pointer;
+        background-color: #B67419;
+    }
+#stopka
+{
+    float: left;
+    clear: both;
+    width: 1150px;
+    border-top: 2px solid rgb(251, 228, 198);
+    
+}
+#stopka_kontakt
+{
+    float: left;
+    width: 500;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#stopka_social
+{
+    float: right;
+    width: 500;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+    .yt
+    {
+        float: right;
+        width: 50px;
+        height: 50px;
+        background-color: #ff0000;
+        margin-left: 10px;
+        margin-top: 5px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    .yt:hover
+    {
+        cursor: pointer;
+        background-color: #ee0000;
+    }
+    .fb
+    {
+        float: right;
+        width: 50px;
+        height: 50px;
+        background-color:#4267b2;
+        margin-left: 10px;
+        margin-top: 5px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    .fb:hover
+    {
+        cursor: pointer;
+        background-color: #3257a2;
+    }
+    .ing
+    {
+        float: right;
+        width: 50px;
+        height: 50px;
+        background-color: #c13584;
+        margin-left: 10px;
+        margin-top: 5px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    .ing:hover
+    {
+        cursor: pointer;
+        background-color: #b12574;
+    }
+    .ph
+    {
+        float: right;
+        width: 50px;
+        height: 50px;
+        background-color: #ffa31a;
+        margin-left: 10px;
+        margin-top: 5px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    .ph:hover
+    {
+        cursor: pointer;
+        background-color: #ee930a;
+    }
